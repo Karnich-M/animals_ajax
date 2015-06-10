@@ -1,0 +1,45 @@
+body {
+    background-color: lightgray;
+}
+
+table {
+    /*background-color: ivory;*/
+    align-self: inherit; //
+   /* width: 600px;*/
+    /*display: none;*/
+
+}
+
+.table-bordered {
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.checkbox input[type="checkbox"] {
+    position: relative;
+    margin-left: 0;
+}
+
+#buttons {
+    text-align: center;
+    margin: 10px 0;
+}
+
+td, th {
+    text-align: center;
+    padding: 5px;
+    width: 140px;
+}
+
+#t_head {
+    background-color: burlywood;
+}
+
+.boxes {
+    background-color: dimgray;
+}
+
+img {
+    width: 128px;
+    height: 80px;
+}
